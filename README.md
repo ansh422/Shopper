@@ -1,4 +1,5 @@
-#SHOPPER#
+#Shopper
+
 
 A simple google extension that lets you search for similar product on e-commerce websites with a single click.
 
